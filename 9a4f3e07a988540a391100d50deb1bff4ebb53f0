@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Fri, 31 Jul 2015 12:24:45 +0200
+Reviewed-on: https://review.gerrithub.io/241900
+Project: openstack-packages/python-cliff
+Branch: refs/heads/rpm-master
