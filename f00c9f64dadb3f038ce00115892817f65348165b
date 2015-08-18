@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Lukáš Bezdička <lbezdick@redhat.com>
+Submitted-by: Lukáš Bezdička <lbezdick@redhat.com>
+Submitted-at: Tue, 18 Aug 2015 11:57:05 +0200
+Reviewed-on: https://review.gerrithub.io/243493
+Project: openstack-packages/python-cliff
+Branch: refs/heads/rpm-master
