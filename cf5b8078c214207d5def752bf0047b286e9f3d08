@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_f7405f58",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-03-04T16:10:32Z",
+      "side": 1,
+      "message": "That WHAT not WHY:\n\nhttps://wiki.openstack.org/wiki/GitCommitMessages#Information_in_commit_messages",
+      "revId": "cf5b8078c214207d5def752bf0047b286e9f3d08",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
