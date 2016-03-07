@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_8c7475d0",
+        "filename": "python-cliff.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000935
+      },
+      "writtenOn": "2016-03-07T16:14:52Z",
+      "side": 1,
+      "message": "We use 0%{?fedora} \u003e\u003d 24 for rpm-master b/c we are interested in debugging only py3.5 results.\nBut in this case py3.4 on f23 also works, so we can keep it for now.",
+      "revId": "e599ef62fb5af608c8de65bc2750925334e953ba",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
